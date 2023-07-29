@@ -1,0 +1,23 @@
+{
+  "name": "Skip Videos",
+  "description": "Remove the intro videos when launching D2R and the cinematic cutscenes when transitioning between acts by replacing them with empty files.",
+  "author": "Caedendi",
+  "website": "https://www.nexusmods.com/diablo2resurrected/mods/397",
+  "version": "1.0.0",
+  "config": [
+    {
+      "id": "RemoveLaunch",
+      "type": "checkbox",
+      "name": "Skip Launch Intros",
+      "description": "Skip the intro videos that play when the game is launched.",
+      "defaultValue": true
+    },
+    {
+      "id": "RemoveCutscenes",
+      "type": "checkbox",
+      "name": "Skip Cutscenes",
+      "description": "Skip the cinematic cutscenes that play when transitioning between acts.",
+      "defaultValue": true
+    }
+  ]
+}
