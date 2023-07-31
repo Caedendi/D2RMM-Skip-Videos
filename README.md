@@ -2,7 +2,8 @@
 
 Remove the intro videos when launching D2R and the cinematic cutscenes when transitioning between acts by replacing them with empty files. Works with D2RMM. 
 
-This mod merges [Skip Videos](https://www.nexusmods.com/diablo2resurrected/mods/331) by [Caleb and Friends](https://www.nexusmods.com/diablo2resurrected/users/171503373) and [Skip Intro Videos for D2RMM](https://www.nexusmods.com/diablo2resurrected/mods/397) by [olegbl](https://www.nexusmods.com/diablo2resurrected/users/353885) into a single D2RMM mod. <br>
+This mod merges [Skip Videos](https://www.nexusmods.com/diablo2resurrected/mods/331) by [Caleb and Friends](https://www.nexusmods.com/diablo2resurrected/users/171503373) and [Skip Intro Videos for D2RMM](https://www.nexusmods.com/diablo2resurrected/mods/397) by [olegbl](https://www.nexusmods.com/diablo2resurrected/users/353885) into a single D2RMM mod.
+
 Both video types can be either enabled or disabled using the D2RMM settings.
 
 
